@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.223
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyKeys.KeysClassificationML.App", "src\EasyKeys.KeysClassificationML.App\EasyKeys.KeysClassificationML.App.csproj", "{631A0CA0-53A2-433D-8DAE-40CCC906EF40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyKeys.KeysClassificationML.Model", "src\EasyKeys.KeysClassificationML.Model\EasyKeys.KeysClassificationML.Model.csproj", "{5FD89B12-1173-46F1-B4B1-FB1334A3D3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631A0CA0-53A2-433D-8DAE-40CCC906EF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631A0CA0-53A2-433D-8DAE-40CCC906EF40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631A0CA0-53A2-433D-8DAE-40CCC906EF40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631A0CA0-53A2-433D-8DAE-40CCC906EF40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FD89B12-1173-46F1-B4B1-FB1334A3D3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FD89B12-1173-46F1-B4B1-FB1334A3D3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FD89B12-1173-46F1-B4B1-FB1334A3D3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FD89B12-1173-46F1-B4B1-FB1334A3D3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47481447-03E0-4341-889F-38D4CE2EC2C9}
+	EndGlobalSection
+EndGlobal
